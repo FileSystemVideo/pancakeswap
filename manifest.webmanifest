@@ -1,0 +1,17 @@
+{
+  "background_color": "#0f38be",
+  "description": "Next generation video and entertainment blockchain powered by you. ",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "/logo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "name": "FSV 極速版",
+  "short_name": "FSV",
+  "start_url": "/index.html",
+  "id": "/index.html"
+  
+}
